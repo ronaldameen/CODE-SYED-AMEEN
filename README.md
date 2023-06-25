@@ -1,4 +1,4 @@
-# Ayush-Rishabh
+# SYED-AMEEN
 Fastest-Coder-First Hackathon Project
 # Check Out Live FinTrack Website at : https://fintrack-dpzw.onrender.com
 
